@@ -5,7 +5,7 @@ Meu nome é Vagner, anteriormente atuei como DPO/Consultor de Privacidade e Prot
 
 
 ## 💻 Linkedin:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vagner-cassianojunior)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vagner-cassianojunior)](www.linkedin.com/in/vagner-cassianojunior)
 
 ## ⌨️ Hard Skills:
 ![TituloImagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
